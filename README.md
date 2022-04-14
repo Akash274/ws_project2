@@ -27,7 +27,7 @@ There are two different sets of images for benign and malignant and each set con
 
 #### Trained Machine Learning Model
  Trained the model (approximately 80% of data will be used for training the model)
-![screenshot](screenshots/ssmodel_score.png)
+![screenshot](screenshots/model_score.png)
 
 ##### Train the model through the uploaded data set
 ![screenshot](screenshots/ss10.png)
