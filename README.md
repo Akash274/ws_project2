@@ -28,17 +28,6 @@ Evaluated model accuracy (approximately 20% of data will be used for validating 
 
 ![screenshot](screenshots/model_score.png)
 
-
-
-
-
-
-
-
-
-
-
-
 ### Deployment Machine Learning Model
 
 
