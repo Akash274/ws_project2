@@ -2,6 +2,8 @@
 
 ## Deploying Machine Learning Model on Google Cloud Platform
 
+Youtube: https://youtu.be/wjSxup3JQss
+
 ### Introduction
 
 The project is a web application that classifies images of skin moles using machine learning models.
