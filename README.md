@@ -7,8 +7,8 @@ Youtube: https://youtu.be/wjSxup3JQss
 ### Introduction
 
 The project is a web application that classifies images of skin moles using machine learning models.
-Implemented a convolutional neural network which is applied for image analysis and processing.
-This is fully connected neural network. The images are trained according to pixel values of the image and then classify them according to the label of the image.
+Implemented a AutoML which is applied for image analysis and processing.
+The images are trained according to pixel values of the image and then classify them according to the label of the image.
 The web application for the machine learning model accepts image input for skin moles and predicts skin mole in the image to be benign or malignant. 
 
 ### Machine Learning Model On Google Cloud 
