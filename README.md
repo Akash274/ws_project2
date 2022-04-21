@@ -35,32 +35,28 @@ An object detection model analyzes your image data and returns annotations for a
 ### Upload the data to create the data set on google console
 ![screenshot](screenshots/ss4.png)
 
-#### Sourced and Prepared the Dataset
+### Sourced and Prepared the Dataset
 For the dataset we used a set of images which contained a dataset of images of benign skin moles and malignant skin moles. 
 There are two different sets of images for benign and malignant and each set contains around 1800 images of size (224x224). 
 ![screenshot](screenshots/ss5.png)
 
-#### Trained Machine Learning Model
+### Trained Machine Learning Model
  Trained the model (approximately 80% of data will be used for training the model)
 ![screenshot](screenshots/model_score.png)
 
-##### Train the model through the uploaded data set
+### Train the model through the uploaded data set
 ![screenshot](screenshots/ss10.png)
 
-#### Tested Machine Learning Model
+### Tested Machine Learning Model
 Evaluated model accuracy (approximately 20% of data will be used for validating the prediction)
 
 ![screenshot](screenshots/model_score.png)
 
 
 
-### Create a Project on Google Cloud Platform
+### Console on Google Cloud Platform
 ![screenshot](screenshots/s2.png)
 
-
-### After training the model create an endpoint to access the model
-
-![screenshot](screenshots/s15.png)
 
 ### Install Google Cloud Packages for Python
 ![screenshot](screenshots/ss9.png)
@@ -87,4 +83,8 @@ Evaluated model accuracy (approximately 20% of data will be used for validating 
 ![screenshot](screenshots/s11.png)
 ![screenshot](screenshots/s12.png)
 
+
+### After training the model create an endpoint to access the model
+
+![screenshot](screenshots/s15.png)
 
