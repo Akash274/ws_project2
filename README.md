@@ -20,7 +20,7 @@ It brings together the Google Cloud services for building ML under one, unified 
 ### Tensor Flow 
 Tensor Flow is an open-source library (where we use the software to modify, publish, etc) generally considered for large-scale machine learning projects, including numerical computation. With its tools that have been developed, it supports developers in its best way. What makes Tensor flow different is that it involves multiple levels of abstractions, so you can choose the right one depending on your needs. We can build and train models by using high-level APIs which makes it much easier. Another vital feature includes better flexibility, eager execution allows for immediate iteration and debugging as well. Tensor has a standard way of representing data. It is used vastly in the leading companies to detect objects at a large scale to improve performance, improve speed and reliability, and detect complex fraud patterns.
 
-### AutoML model types 
+### AutoML 
 AutoML uses machine learning to analyze the content of image data. You can use AutoML to train an ML model to classify image data or find objects in image data.
 
 A classification model analyzes image data and returns a list of content categories that apply to the image. For example, you could train a model that classifies images as containing a cat or not containing a cat, or you could train a model to classify images of dogs by breed.
