@@ -26,62 +26,67 @@ A classification model analyzes image data and returns a list of content categor
 An object detection model analyzes your image data and returns annotations for all objects found in an image, consisting of a label and bounding box location for each object. For example, you could train a model to find the location of the cats in image data.
 
 
-![](https://github.com/Akash274/ws_project2/blob/master/screenshots/s1.png)
+![screenshot](screenshots/s1.png)
 ### Machine Learning Model Confusion Matrix
-![](https://github.com/Akash274/ws_project2/blob/master/screenshots/s14.png)
+![screenshot](screenshots/s14.png)
 ### Create the project on google cloud platform
-![](https://github.com/Akash274/ws_project2/blob/master/screenshots/s2.png)
+![screenshot](screenshots/s2.png)
 
 ### Upload the data to create the data set on google console
-![](https://github.com/Akash274/ws_project2/blob/master/screenshots/ss4.png)
+![screenshot](screenshots/ss4.png)
 
 ### Sourced and Prepared the Dataset
 For the dataset we used a set of images which contained a dataset of images of benign skin moles and malignant skin moles. 
 There are two different sets of images for benign and malignant and each set contains around 1800 images of size (224x224). 
-![](https://github.com/Akash274/ws_project2/blob/master/screenshots/ss5.png)
+![screenshot](screenshots/ss5.png)
 
 ### Console on Google Cloud Platform
-![](https://github.com/Akash274/ws_project2/blob/master/screenshots/s2.png)
+![screenshot](screenshots/s2.png)
 
 
 ### Install Google Cloud Packages for Python
-![](https://github.com/Akash274/ws_project2/blob/master/screenshots/ss9.png)
+![screenshot](screenshots/ss9.png)
 
 ### Create Service account and Download authentication keys
 
-![](https://github.com/Akash274/ws_project2/blob/master/screenshots/s3.png)
+![screenshot](screenshots/s3.png)
 
-![](https://github.com/Akash274/ws_project2/blob/master/screenshots/s4.png)
+![screenshot](screenshots/s4.png)
 ### Set the authentication keys to access the model
-![](https://github.com/Akash274/ws_project2/blob/master/screenshots/s5.png)
+![screenshot](screenshots/s5.png)
 ### Bucket Creation
 
 
-![](https://github.com/Akash274/ws_project2/blob/master/screenshots/s6.png)
+![screenshot](screenshots/s6.png)
 
 ### Data Set creation
-![](https://github.com/Akash274/ws_project2/blob/master/screenshots/s7.png)
-![](https://github.com/Akash274/ws_project2/blob/master/screenshots/s8.png)
-![](https://github.com/Akash274/ws_project2/blob/master/screenshots/s9.png)
-![](https://github.com/Akash274/ws_project2/blob/master/screenshots/s10.png)
+![screenshot](screenshots/s7.png)
+![screenshot](screenshots/s8.png)
+![screenshot](screenshots/s9.png)
+![screenshot](screenshots/s10.png)
 
 ### Training Model
-![](https://github.com/Akash274/ws_project2/blob/master/screenshots/s11.png)
-![](https://github.com/Akash274/ws_project2/blob/master/screenshots/s12.png)
+![screenshot](screenshots/s11.png)
+![screenshot](screenshots/s12.png)
 
 
 ### After training the model create an endpoint to access the model
 
-![](https://github.com/Akash274/ws_project2/blob/master/screenshots/s15.png)
+![screenshot](screenshots/s15.png)
 
 ### Trained Machine Learning Model
  Trained the model (approximately 80% of data will be used for training the model)
-![](https://github.com/Akash274/ws_project2/blob/master/screenshots/model_score.png)
+![screenshot](screenshots/model_score.png)
 
 ### Train the model through the uploaded data set
-![](https://github.com/Akash274/ws_project2/blob/master/screenshots/ss10.png)
+![screenshot](screenshots/ss10.png)
 
 ### Tested Machine Learning Model
 Evaluated model accuracy (approximately 20% of data will be used for validating the prediction)
 
-![](https://github.com/Akash274/ws_project2/blob/master/screenshots/s16.png)
+![screenshot](screenshots/s16.png)
+
+
+
+
+
