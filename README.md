@@ -28,7 +28,7 @@ An object detection model analyzes your image data and returns annotations for a
 
 ![screenshot](screenshots/s1.png)
 ### Machine Learning Model Confusion Matrix
-![screenshot](screenshots/14.png)
+![screenshot](screenshots/s14.png)
 ### Create the project on google cloud platform
 ![screenshot](screenshots/s2.png)
 
