@@ -84,7 +84,7 @@ There are two different sets of images for benign and malignant and each set con
 ### Tested Machine Learning Model
 Evaluated model accuracy (approximately 20% of data will be used for validating the prediction)
 
-![screenshot](screenshots/model_score.png)
+![screenshot](screenshots/s16.png)
 
 
 
