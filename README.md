@@ -26,13 +26,13 @@ A classification model analyzes image data and returns a list of content categor
 An object detection model analyzes your image data and returns annotations for all objects found in an image, consisting of a label and bounding box location for each object. For example, you could train a model to find the location of the cats in image data.
 
 
-![screenshot](screenshots/application.png)
+![screenshot](screenshots/s1.png)
 ### Machine Learning Model Confusion Matrix
-![screenshot](screenshots/model_conf_matrix.png)
+![screenshot](screenshots/14.png)
 ### Create the project on google cloud platform
-![screenshot](screenshots/ss2.png)
+![screenshot](screenshots/s2.png)
 
-##### Upload the data to create the data set on google console
+### Upload the data to create the data set on google console
 ![screenshot](screenshots/ss4.png)
 
 #### Sourced and Prepared the Dataset
@@ -54,24 +54,37 @@ Evaluated model accuracy (approximately 20% of data will be used for validating 
 
 
 
-### Deployment Machine Learning Model
+### Create a Project on Google Cloud Platform
+![screenshot](screenshots/s2.png)
 
 
-##### Create a Project on Google Cloud Platform
-![screenshot](screenshots/ss12.png)
-##### Access the console for the created application
+### After training the model create an endpoint to access the model
+
+![screenshot](screenshots/s15.png)
+
+### Install Google Cloud Packages for Python
 ![screenshot](screenshots/ss9.png)
 
-##### After training the model create an endpoint to access the model
+### Create Service account and Download authentication keys
 
-![screenshot](screenshots/ss12.png)
+![screenshot](screenshots/s3.png)
 
-##### Install Google Cloud Packages for Python
-![screenshot](screenshots/ss9.png)
+![screenshot](screenshots/s4.png)
+### Set the authentication keys to access the model
+![screenshot](screenshots/s5.png)
+### Bucket Creation
 
-##### Create Service account and Download authentication keys
 
-![screenshot](screenshots/ss7.png)
-##### Set the authentication keys to access the model
-![screenshot](screenshots/ss8.png)
-##### Run the application locally
+![screenshot](screenshots/s6.png)
+
+### Data Set creation
+![screenshot](screenshots/s7.png)
+![screenshot](screenshots/s8.png)
+![screenshot](screenshots/s9.png)
+![screenshot](screenshots/s10.png)
+
+### Training Model
+![screenshot](screenshots/s11.png)
+![screenshot](screenshots/s12.png)
+
+
