@@ -1,4 +1,4 @@
-# WS_Project2
+# ws_project2
 
 ## Deploying Machine Learning Model on Google Cloud Platform
 
