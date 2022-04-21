@@ -22,9 +22,7 @@ Tensor Flow is an open-source library (where we use the software to modify, publ
 
 ### AutoML 
 AutoML uses machine learning to analyze the content of image data. You can use AutoML to train an ML model to classify image data or find objects in image data.
-
 A classification model analyzes image data and returns a list of content categories that apply to the image. For example, you could train a model that classifies images as containing a cat or not containing a cat, or you could train a model to classify images of dogs by breed.
-
 An object detection model analyzes your image data and returns annotations for all objects found in an image, consisting of a label and bounding box location for each object. For example, you could train a model to find the location of the cats in image data.
 
 
