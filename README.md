@@ -87,6 +87,23 @@ Evaluated model accuracy (approximately 20% of data will be used for validating 
 ![screenshot](screenshots/s16.png)
 
 
+### References
+Lisa Tagliaferri, “An Introduction to Machine Learning”, https://www.digitalocean.com/community/tutorials/an-introduction-to-machin e-learning, Digital Ocean, September, 2017. 
+crossML engineering, “Google Cloud Platform (GCP) for Machine Learning & AI”, 
+https://medium.com/crossml/google-cloud-platform-gcp-for-machine-learnin g-ai-36165b1767b0 
+S. Gupta, A. Panwar and K. Mishra, "Skin Disease Classification using Dermoscopy Images through Deep Feature Learning Models and Machine Learning Classifiers," IEEE EUROCON 2021 - 19th International Conference on Smart Technologies, 2021, pp. 170-174, doi:
+10.1109/EUROCON52738.2021.9535552, 
+https://ieeexplore.ieee.org/abstract/document/9535552 
+Manu Goyal1, Thomas Knackstedt2, Shaofeng Yan3, and Saeed Hassanpour4, “Artificial Intelligence-Based Image Classification for Diagnosis of Skin Cancer: Challenges and Opportunities” https://arxiv.org/ftp/arxiv/papers/1911/1911.11872.pdf 
+Google AI Platform Machine Learning Solutions overview, https://cloud.google.com/ai-platform/docs/ml-solutions-overview 
+Tensor Flow
+https://www.tensorflow.org/
+Google VertexAI 
+https://cloud.google.com/vertex-ai
+Google AutoML
+https://cloud.google.com/automl
+Google Cloud Storage Bucket
+https://cloud.google.com/storage/docs/creating-buckets
 
 
 
