@@ -88,7 +88,8 @@ Evaluated model accuracy (approximately 20% of data will be used for validating 
 
 
 ### References
-Lisa Tagliaferri, “An Introduction to Machine Learning”, https://www.digitalocean.com/community/tutorials/an-introduction-to-machin e-learning, Digital Ocean, September, 2017. 
+Lisa Tagliaferri, “An Introduction to Machine Learning”, 
+https://www.digitalocean.com/community/tutorials/an-introduction-to-machine-learning, Digital Ocean, September, 2017. 
 crossML engineering, “Google Cloud Platform (GCP) for Machine Learning & AI”, 
 https://medium.com/crossml/google-cloud-platform-gcp-for-machine-learnin g-ai-36165b1767b0 
 S. Gupta, A. Panwar and K. Mishra, "Skin Disease Classification using Dermoscopy Images through Deep Feature Learning Models and Machine Learning Classifiers," IEEE EUROCON 2021 - 19th International Conference on Smart Technologies, 2021, pp. 170-174, doi:
